@@ -5,3 +5,112 @@ body{
     border-style: solid;
 }
 
+.top-banner-right{
+    margin-top: 2em;
+    position: absolute;
+    right: 5vh;
+}
+
+.top-banner-right-under{
+    z-index: 2;
+    position: absolute; 
+    top:7.7em;
+    right: 2.5em;
+}
+
+.main{
+    width: 100%;  
+}
+
+.top{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.top img{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    object-fit: contain;
+    max-height: 300px;   
+}
+
+.top h1{
+    display: inline-block;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    object-fit: fill;
+    font-size: 2em;
+    font-size-adjust: initial;
+    font-weight: bolder;
+}
+
+.top p{
+    font-size: 1.5em;
+
+}
+
+.font{
+    font-style: italic;
+    color: gray;
+    margin-bottom: 0;
+    margin-top: 0.5 em;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.under-font-1{
+    height: 4.5px;
+    margin-bottom: 2em;
+    margin-left: 2em;
+}
+
+.row{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.column {
+    width: 40%;
+    padding: 5px;
+    height: 15em;
+    margin: auto;
+}
+
+
+.row-text{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column-text{
+    width: 40%;
+    padding: 5px;
+    margin: auto;
+}
+
+h3 {
+    font-size: 4vh;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.under-font-2{
+    height: 3px;
+    width: 50%;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 8em;
+    display: inline-block;
+    display: absolute;
+}
+
