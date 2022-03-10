@@ -1,4 +1,6 @@
-Desenvolvimento de um site como parte do processo seletivo para estagiários na agência Mandarin.
+# Oi! Eu sou a Carol. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Este prjeto se consubstancia no desenvolvimento de um site como parte do processo seletivo para estagiários na agência Mandarin.
 
 Fiz o [deploy na vercel](https://mandarin-caroldireito1.vercel.app). 
 
